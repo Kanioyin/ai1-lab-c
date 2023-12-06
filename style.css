@@ -1,0 +1,25 @@
+#maps {
+    display: flex;
+}
+#map,
+#savedMap {
+    width: 600px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+#tables {
+    display: flex;
+    align-items: center;
+}
+.grid-item {
+    overflow: hidden;
+    overflow-wrap: break-word;
+}
+
+#table1,
+#table2 {
+    width: 600px;
+    height: 300px;
+    border: 1px solid black;
+}
